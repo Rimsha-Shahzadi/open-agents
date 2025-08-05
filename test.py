@@ -63,3 +63,8 @@ agent = Agent(name="basic_agent",
 print(agent.tools)
 output= Runner.run_sync(agent, input="process user data, Miss Rimsha, 22 years old")
 print(output.final_output)
+
+
+
+
+   
